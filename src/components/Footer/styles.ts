@@ -6,7 +6,7 @@ export const Wrapper = styled.footer`
     background: ${theme.colors.textColor};
 
     ${Container} {
-      padding: ${theme.spacings.medium};
+      padding: ${theme.spacings.medium} 1.5rem;
     }
 
     & .logo {
