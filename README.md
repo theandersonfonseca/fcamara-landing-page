@@ -4,7 +4,15 @@
 
 ## 💻 Sobre o projeto
 
-Este projeto foi desenvolvido para o processo seletivo do **[Grupo FCamara](https://www.fcamara.com.br/)**, a proposta era fazer uma Landing Page para informar aos funcionários da empresa sobre o retorno aos escritórios caso queiram trabalhar presencialmente. **[Acesse a aplicação clicando aqui](https://git-scm.com/)**.
+Este projeto foi desenvolvido para o processo seletivo do **[Grupo FCamara](https://www.fcamara.com.br/)**, a proposta era fazer uma Landing Page para informar aos funcionários da empresa sobre o retorno aos escritórios caso queiram trabalhar presencialmente. **[Acesse a aplicação clicando aqui]()**.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[React](https://pt-br.reactjs.org/)**
+- **[Styled Components](https://styled-components.com/)**
 
 ---
 
@@ -42,12 +50,4 @@ yarn dev
 
 ---
 
-## 🛠️ Tecnologias utilizadas
-
-- **[TypeScript](https://www.typescriptlang.org/)**
-- **[React](https://pt-br.reactjs.org/)**
-- **[Styled Components](https://styled-components.com/)**
-
----
-
-Feito com ♥ por **[Anderson Fonseca](https://github.com/theandersonfonseca)**.
+Feito com 🧡 por **[Anderson Fonseca](https://github.com/theandersonfonseca)**.
