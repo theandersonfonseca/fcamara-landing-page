@@ -7,6 +7,7 @@ export default {
       large: "1.8rem",
       xlarge: "2.0rem",
       xxlarge: "2.8rem",
+      huge: "3.2rem",
     },
   },
   colors: {
@@ -24,6 +25,7 @@ export default {
     large: "4.0rem",
     xlarge: "4.8rem",
     xxlarge: "5.6rem",
+    huge: "8rem",
   },
   layers: {
     base: 10,
