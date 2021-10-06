@@ -1,6 +1,7 @@
 import { createGlobalStyle } from "styled-components";
 
 import MetropolisRegular from "assets/fonts/Metropolis-Regular.otf";
+import MetropolisLight from "assets/fonts/Metropolis-Light.otf";
 import MetropolisMedium from "assets/fonts/Metropolis-Medium.otf";
 import MetropolisBlack from "assets/fonts/Metropolis-Black.otf";
 import MetropolisBold from "assets/fonts/Metropolis-Bold.otf";
@@ -10,6 +11,12 @@ const GlobalStyles = createGlobalStyle`
     font-family: 'Metropolis Regular';
     font-display: swap;
     src: url(${MetropolisRegular});
+  }
+
+  @font-face {
+    font-family: 'Metropolis Light';
+    font-display: swap;
+    src: url(${MetropolisLight});
   }
 
   @font-face {
