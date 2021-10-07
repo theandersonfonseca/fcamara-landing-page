@@ -1,14 +1,25 @@
 import styled, { css } from "styled-components/macro";
+import Container from "components/Container";
 
 export const Wrapper = styled.header`
   ${({ theme }) => css`
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: ${theme.spacings.xsmall} 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 6rem;
+    background: ${theme.colors.white};
+    z-index: ${theme.layers.menu};
 
-    @media (max-width: 650px) {
-      flex-direction: column;
+    ${Container} {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 100%;
+      padding: ${theme.spacings.xsmall} 0;
+
+      @media (max-width: 650px) {
+        flex-direction: column;
+      }
     }
   `}
 `;

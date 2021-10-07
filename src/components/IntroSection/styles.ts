@@ -4,6 +4,7 @@ export const Wrapper = styled.section`
   ${({ theme }) => css`
     display: flex;
     padding: 15rem 0;
+    margin-top: 6rem;
 
     @media (max-width: 650px) {
       padding: ${theme.spacings.huge} 0;

@@ -5,8 +5,8 @@ import * as S from "./styles";
 
 export default function Header() {
   return (
-    <Container>
-      <S.Wrapper>
+    <S.Wrapper>
+      <Container>
         <a
           href="https://www.fcamara.com.br/"
           target="_blank"
@@ -31,7 +31,7 @@ export default function Header() {
             </S.MenuItem>
           </S.Menu>
         </nav>
-      </S.Wrapper>
-    </Container>
+      </Container>
+    </S.Wrapper>
   );
 }
