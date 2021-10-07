@@ -41,10 +41,15 @@ export const Content = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
+
+  & a {
+    width: fit-content;
+  }
 `;
 
 export const Text = styled.h3`
   ${({ theme }) => css`
+    margin-bottom: ${theme.spacings.medium};
     font-size: ${theme.font.sizes.large};
     font-family: "Metropolis Light";
     line-height: 1.4;
@@ -53,7 +58,6 @@ export const Text = styled.h3`
 
 export const Button = styled.button`
   ${({ theme }) => css`
-    margin-top: ${theme.spacings.medium};
     padding: ${theme.spacings.xsmall} ${theme.spacings.large};
     background: ${theme.colors.primary};
     border-radius: 0.8rem;
