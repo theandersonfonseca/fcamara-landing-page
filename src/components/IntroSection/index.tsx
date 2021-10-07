@@ -24,9 +24,8 @@ export default function IntroSection() {
 
           <S.Text>
             Estamos muito felizes com essa novidade, mas sabemos que não será
-            como antes, para fazer esse retorno de forma segura, criamos um
-            sistema de agendamento, na próxima seção estão todas as instruções
-            para aqueles que quiserem retornar aos escritórios
+            como antes, serão necessários algumas etapas para realizar esse
+            retorno da melhor forma possível
           </S.Text>
         </S.Content>
       </S.Wrapper>

@@ -18,8 +18,9 @@ export default function InstructionSection() {
             <S.Text>
               Para que o retorno aconteça de forma segura e organizada,
               respeitando a determinação de 40% da capacidade total, será
-              necessário realizar um agendamento, lá estarão os dias disponíveis
-              em cada uma das nossas sedes
+              necessário realizar um agendamento, para isso criamos um sistema,
+              onde você deverá selecionar uma das sedes (São Paulo ou Santos) e
+              um dos dias disponíveis
             </S.Text>
 
             <a

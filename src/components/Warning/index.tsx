@@ -7,9 +7,9 @@ export default function Warning() {
     <S.Wrapper>
       <Container>
         <h3>
-          Atenção consultor, o retorno é opcional, caso não se sinta a vontade
-          ou não possa ir a um dos escritórios, permaneça em casa. Segurança em
-          primeiro lugar!
+          Atenção #SangueLaranja, o retorno é opcional, caso não se sinta a
+          vontade ou não possa ir a um dos escritórios, permaneça em casa.
+          Segurança em primeiro lugar!
         </h3>
       </Container>
     </S.Wrapper>
