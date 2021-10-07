@@ -53,3 +53,13 @@ export const Text = styled.h2`
     line-height: 1.4;
   `}
 `;
+
+export const SocialMediaIconsWrapper = styled.div`
+  position: absolute;
+  left: 1.5rem;
+  top: 25rem;
+
+  @media (max-width: 950px) {
+    display: none;
+  }
+`;

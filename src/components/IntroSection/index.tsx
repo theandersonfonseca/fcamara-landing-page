@@ -1,11 +1,16 @@
 import { ReactComponent as HappyGuy } from "assets/images/happy-guy.svg";
 import Container from "components/Container";
+import SocialMediaIcons from "components/SocialMediaIcons";
 
 import * as S from "./styles";
 
 export default function IntroSection() {
   return (
     <Container>
+      <S.SocialMediaIconsWrapper>
+        <SocialMediaIcons align="vertical" color="primary" />
+      </S.SocialMediaIconsWrapper>
+
       <S.Wrapper>
         <S.SvgWrapper>
           <HappyGuy />
