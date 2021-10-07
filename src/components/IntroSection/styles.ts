@@ -3,7 +3,11 @@ import styled, { css } from "styled-components/macro";
 export const Wrapper = styled.section`
   ${({ theme }) => css`
     display: flex;
-    padding: ${theme.spacings.huge} 0;
+    padding: 15rem 0;
+
+    @media (max-width: 650px) {
+      padding: ${theme.spacings.huge} 0;
+    }
   `}
 `;
 
