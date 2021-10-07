@@ -11,7 +11,7 @@ export default function IntroSection() {
         <SocialMediaIcons align="vertical" color="primary" />
       </S.SocialMediaIconsWrapper>
 
-      <S.Wrapper>
+      <S.Wrapper id="sobre">
         <S.SvgWrapper>
           <HappyGuy />
         </S.SvgWrapper>

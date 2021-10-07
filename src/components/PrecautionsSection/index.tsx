@@ -5,7 +5,7 @@ import * as S from "./styles";
 
 export default function PrecautionsSection() {
   return (
-    <S.Wrapper>
+    <S.Wrapper id="precauções">
       <Container>
         <S.Title>Precauções</S.Title>
 

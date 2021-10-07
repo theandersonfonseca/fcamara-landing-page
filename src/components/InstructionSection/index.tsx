@@ -6,7 +6,7 @@ import * as S from "./styles";
 export default function InstructionSection() {
   return (
     <Container>
-      <S.Wrapper>
+      <S.Wrapper id="como-vai-funcionar">
         <S.Title>Como vai funcionar?</S.Title>
 
         <div>
