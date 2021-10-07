@@ -16,6 +16,10 @@ export const Wrapper = styled.footer`
       & path {
         fill: ${theme.colors.white};
       }
+
+      @media (max-width: 500px) {
+        margin-bottom: ${theme.spacings.medium};
+      }
     }
   `}
 `;
@@ -28,37 +32,6 @@ export const LogoAndIconsWrapper = styled.div`
     flex-direction: column;
     align-items: center;
   }
-`;
-
-export const SocialMediaIconsList = styled.ul`
-  ${({ theme }) => css`
-    list-style: none;
-    display: flex;
-
-    @media (max-width: 500px) {
-      margin-top: ${theme.spacings.medium};
-    }
-  `}
-`;
-
-export const SocialMediaIconsItem = styled.li`
-  ${({ theme }) => css`
-    &:not(:first-child) {
-      margin-left: ${theme.spacings.xsmall};
-    }
-    svg {
-      stroke: ${theme.colors.white};
-      transition: ${theme.transition.default};
-
-      & path {
-        fill: transparent;
-      }
-
-      &:hover {
-        stroke: ${theme.colors.primary};
-      }
-    }
-  `}
 `;
 
 export const Copyright = styled.span`
