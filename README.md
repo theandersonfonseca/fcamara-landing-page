@@ -4,7 +4,13 @@
 
 ## 💻 Sobre o projeto
 
-Este projeto foi desenvolvido para o processo seletivo do **[Grupo FCamara](https://www.fcamara.com.br/)**, a proposta era fazer uma Landing Page para informar aos funcionários da empresa sobre o retorno aos escritórios caso queiram trabalhar presencialmente. **[Acesse a aplicação clicando aqui]()**.
+Este projeto foi desenvolvido para o processo seletivo do **[Grupo FCamara](https://www.fcamara.com.br/)**, a aplicação é uma Landing Page para informar aos funcionários da empresa sobre o retorno aos escritórios caso queiram trabalhar presencialmente. **[Acesse a aplicação clicando aqui]()**.
+
+![](./github/fcamara-retorno.gif)
+
+---
+
+![](./github/fcamara-retorno-mobile.gif)
 
 ---
 
@@ -27,7 +33,7 @@ Este projeto foi desenvolvido para o processo seletivo do **[Grupo FCamara](http
 **Clone o repositório**
 
 ```
-git clone https://github.com/fcamara-landing-page.git
+git clone https://github.com/theandersonfonseca/fcamara-landing-page.git
 ```
 
 **Acesse a pasta do projeto**
