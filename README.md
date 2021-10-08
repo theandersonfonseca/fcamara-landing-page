@@ -4,7 +4,7 @@
 
 ## 💻 Sobre o projeto
 
-Este projeto foi desenvolvido para o processo seletivo do **[Grupo FCamara](https://www.fcamara.com.br/)**, a aplicação é uma Landing Page para informar aos funcionários da empresa sobre o retorno aos escritórios caso queiram trabalhar presencialmente. **[Acesse a aplicação clicando aqui]()**.
+Este projeto foi desenvolvido para o processo seletivo do **[Grupo FCamara](https://www.fcamara.com.br/)**, a aplicação é uma Landing Page para informar aos funcionários da empresa sobre o retorno aos escritórios caso queiram trabalhar presencialmente. **[Acesse a aplicação clicando aqui](https://fcamara-landing-page-theandersonfonseca.netlify.app/)**.
 
 ![](./github/fcamara-retorno.gif)
 
