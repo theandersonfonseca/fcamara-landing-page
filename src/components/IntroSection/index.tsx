@@ -24,7 +24,7 @@ export default function IntroSection() {
 
           <S.Text>
             Estamos muito felizes com essa novidade, mas sabemos que não será
-            como antes, serão necessários algumas etapas para realizar esse
+            como antes, serão necessárias algumas etapas para realizar esse
             retorno da melhor forma possível
           </S.Text>
         </S.Content>
