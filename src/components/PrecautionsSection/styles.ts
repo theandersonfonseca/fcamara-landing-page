@@ -59,7 +59,6 @@ export const CardText = styled.p<CardTextProps>`
     line-height: 1.4;
     color: ${theme.colors.white};
     border-radius: 0.8rem;
-
     background: ${theme.colors[backgroundColor]};
   `}
 `;

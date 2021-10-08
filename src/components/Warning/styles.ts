@@ -6,7 +6,7 @@ export const Wrapper = styled.div`
     background: ${theme.colors.primary};
     text-align: center;
 
-    h3 {
+    & h3 {
       color: ${theme.colors.white};
       font-size: ${theme.font.sizes.xlarge};
       font-family: "Metropolis Light";

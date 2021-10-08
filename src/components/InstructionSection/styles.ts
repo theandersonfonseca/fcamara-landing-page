@@ -27,7 +27,7 @@ export const ImageWrapper = styled.div`
   display: flex;
   justify-content: center;
 
-  img {
+  & img {
     width: 40rem;
   }
 
